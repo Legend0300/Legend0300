@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AI ChatBot](https://legend0300.github.io/AI-ChatBot/)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://legend0300.github.io/portfolio/](https://legend0300.github.io/portfolio/)
 
