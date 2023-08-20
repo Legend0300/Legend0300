@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Portfolio](https://legend0300.github.io/portfolio/)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://legend0300.github.io/portfolio/](https://legend0300.github.io/portfolio/)
 
-- 💬 Ask me about **React , Node JS**
+- 💬 Ask me about **React , Node JS , Machine Learning**
 
 - 📫 How to reach me **ahmed.mansur.bhatti@gmail.com**
 
