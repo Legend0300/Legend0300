@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmed</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://legend0300.github.io/portfolio/)
+- 🔭 I’m currently working on [Portfolio](https://portfolio-p1jwediw4-legend0300.vercel.app/)
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://legend0300.github.io/portfolio/](https://legend0300.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://portfolio-p1jwediw4-legend0300.vercel.app/](https://portfolio-p1jwediw4-legend0300.vercel.app/)
 
 - 💬 Ask me about **React , Node JS , Machine Learning**
 
