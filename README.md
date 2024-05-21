@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmed</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://portfolio-git-ml-legend0300s-projects.vercel.app/)
+- 🔭 I’m currently working on [Text-Summarizer](https://github.com/Legend0300/Text-Summarizer)
 
 - 🌱 I’m currently learning about **Large Language Models**
 
