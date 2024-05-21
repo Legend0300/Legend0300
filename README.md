@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://portfolio-git-ml-legend0300s-projects.vercel.app/)
 
-- 🌱 I’m currently learning **Natrual Language Processing**
+- 🌱 I’m currently learning about **Large Language Models**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-git-ml-legend0300s-projects.vercel.app/)
 
