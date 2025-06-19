@@ -5,23 +5,20 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Machine+Learning+Engineer;AI+Enthusiast;Cybersecurity+Researcher;Red+Team+Specialist;Building+Tomorrow's+Technology" alt="Typing SVG" />
 
+<img width="35%" align="right" alt="Cyber Security" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+
 ### 🌟 About Me
 
-**👨‍💻 Name:** Muhammad Ahmed  
-**🌍 Location:** Pakistan 🇵🇰  
-**💼 Role:** Full Stack Developer & Security Enthusiast  
-**🎓 Learning:** Computer Science & Cybersecurity  
+**👨‍💻 Muhammad Ahmed** | Pakistan 🇵🇰  
+**💻 Full Stack Developer & Cyber Enthusiast**  
 
-**🚀 What I Love:**
-- Building web applications
-- Exploring AI and machine learning
-- Learning ethical hacking
-- Creating cool projects
+🚀 **Passionate About:**
+- 🌐 Building awesome web apps
+- 🤖 AI & Machine Learning magic
+- 🔐 Ethical hacking adventures
+- 💡 Turning ideas into reality
 
-**📚 Currently Exploring:**
-- Advanced web development
-- Cybersecurity fundamentals
-- AI technologies
+📚 **Currently Diving Into:** Advanced Web Dev • Cybersecurity • AI Tech
 
 </div>
 
@@ -167,6 +164,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 
+⭐️ From [Legend0300](https://github.com/Legend0300) | *"In code we trust, in security we verify"*
+
+</div>
 ⭐️ From [Legend0300](https://github.com/Legend0300) | *"In code we trust, in security we verify"*
 
 </div>
