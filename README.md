@@ -7,16 +7,21 @@
 
 ### 🌟 About Me
 
-```yaml
-name: Muhammad Ahmed
-located_in: Pakistan 🇵🇰
-current_job: Full Stack Developer & Security Researcher
-education: ["Computer Science", "Machine Learning", "Cybersecurity"]
-fields_of_interests: ["Web Development", "Machine Learning", "AI", "Cybersecurity", "Red Teaming"]
-technical_background: ["Full Stack Development", "ML Engineering", "Bot Development", "Penetration Testing"]
-currently_learning: ["Large Language Models", "Advanced Red Teaming", "Threat Intelligence", "OSINT"]
-security_focus: ["Ethical Hacking", "Vulnerability Assessment", "Network Security", "Digital Forensics"]
-```
+**👨‍💻 Name:** Muhammad Ahmed  
+**🌍 Location:** Pakistan 🇵🇰  
+**💼 Role:** Full Stack Developer & Security Enthusiast  
+**🎓 Learning:** Computer Science & Cybersecurity  
+
+**🚀 What I Love:**
+- Building web applications
+- Exploring AI and machine learning
+- Learning ethical hacking
+- Creating cool projects
+
+**📚 Currently Exploring:**
+- Advanced web development
+- Cybersecurity fundamentals
+- AI technologies
 
 </div>
 
