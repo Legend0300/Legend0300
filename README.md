@@ -14,7 +14,7 @@ current_job: Full Stack Developer
 education: ["Computer Science", "Machine Learning"]
 fields_of_interests: ["Web Development", "Machine Learning", "AI", "Cybersecurity"]
 technical_background: ["Full Stack Development", "ML Engineering", "Bot Development"]
-currently_learning: ["Advanced AI Techniques", "Red Teaming" , Cybersecurity]
+currently_learning: ["Large Language Models", "Advanced AI Techniques"]
 ```
 
 </div>
@@ -98,7 +98,7 @@ currently_learning: ["Advanced AI Techniques", "Red Teaming" , Cybersecurity]
 <div align="center">
 
 ### 🔐 Cybersecurity Journey
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4200002" style='border:none; width: 400px; height: 120px;'></iframe>
+<p><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4200002" style='border:none; width: 400px; height: 120px;'></iframe></p>
 
 *Building cybersecurity expertise through hands-on challenges and real-world scenarios*
 
