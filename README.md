@@ -3,7 +3,7 @@
 # 🚀 Muhammad Ahmed
 ### `Digital Craftsman (Developer/Creator/Innovator)`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Machine+Learning+Engineer;AI+Enthusiast;Cybersecurity+Researcher;Red+Team+Specialist;Building+Tomorrow's+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Machine+Learning+Engineer;Cybersecurity+Enthusiast;y" alt="Typing SVG" />
 
 <img width="35%" align="right" alt="Cyber Security" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
@@ -163,6 +163,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 
+⭐️ From [Legend0300](https://github.com/Legend0300) | *"In code we trust, in security we verify"*
+
+</div>
+</div>
 ⭐️ From [Legend0300](https://github.com/Legend0300) | *"In code we trust, in security we verify"*
 
 </div>
