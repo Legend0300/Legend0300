@@ -3,7 +3,7 @@
 # 🚀 Muhammad Ahmed
 ### `Digital Craftsman (Developer/Creator/Innovator)`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Machine+Learning+Engineer;Cybersecurity+Enthusiast;y" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Machine+Learning+Engineer;Cybersecurity+Enthusiast;" alt="Typing SVG" />
 
 <img width="35%" align="right" alt="Cyber Security" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
@@ -29,8 +29,8 @@
 <div align="center">
 
 🔭 **Working on:** [Text-Summarizer](https://github.com/Legend0300/Text-Summarizer) - AI-powered text summarization tool  
-🌱 **Learning:** Large Language Models & Advanced Red Teaming Techniques  
-🔐 **Security Research:** Penetration Testing, OSINT, and Threat Hunting  
+🌱 **Learning:** Red Teaming Techniques  
+🔐 **Security Interests:** Penetration Testing  
 👨‍💻 **Portfolio:** [View My Work](https://portfolio-git-ml-legend0300s-projects.vercel.app/)  
 💡 **Ask me about:** React, Node.js, Machine Learning, AI Development, Cybersecurity  
 
