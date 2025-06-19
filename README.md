@@ -30,7 +30,7 @@
 
 🔭 **Working on:** [Text-Summarizer](https://github.com/Legend0300/Text-Summarizer) - AI-powered text summarization tool  
 🌱 **Learning:** Large Language Models & Advanced Red Teaming Techniques  
-🔐 **Security Research:** Penetration Testing, OSINT, and Threat Hunting  
+🔐 **Security Research:** Penetration Testing 
 👨‍💻 **Portfolio:** [View My Work](https://portfolio-git-ml-legend0300s-projects.vercel.app/)  
 💡 **Ask me about:** React, Node.js, Machine Learning, AI Development, Cybersecurity  
 
