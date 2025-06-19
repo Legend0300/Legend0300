@@ -166,7 +166,3 @@
 ⭐️ From [Legend0300](https://github.com/Legend0300) | *"In code we trust, in security we verify"*
 
 </div>
-</div>
-⭐️ From [Legend0300](https://github.com/Legend0300) | *"In code we trust, in security we verify"*
-
-</div>
