@@ -106,21 +106,9 @@
 ### 🎯 **Current Security Focus**
 ```
 🔴 Red Teaming & Penetration Testing
-🕵️ OSINT & Threat Intelligence  
-🛡️ Network Security & Defense
-🔍 Digital Forensics & Incident Response
-🎭 Social Engineering Awareness
 📊 Vulnerability Assessment & Management
 ```
 
-### 🏴‍☠️ **Red Team Skills**
-- **Reconnaissance:** OSINT, Footprinting, Social Engineering
-- **Weaponization:** Custom Payload Development, Evasion Techniques
-- **Delivery:** Phishing Campaigns, Physical Security Bypasses
-- **Exploitation:** Web App Pentesting, Network Penetration
-- **Installation:** Persistence, Backdoors, C2 Infrastructure
-- **Command & Control:** Remote Access, Lateral Movement
-- **Actions on Objectives:** Data Exfiltration, Impact Assessment
 
 </div>
 
@@ -152,17 +140,9 @@
 - ✅ Complete Beginner Path
 - 🔄 Offensive Pentesting Path  
 - 🔄 Red Teaming Path
-- 📚 Cyber Defense Path (Next)
 
 ### 🏆 **GitHub Achievements**
 [![trophy](https://github-profile-trophy.vercel.app/?username=Legend0300&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🎯 **Security Milestones**
-```
-🎪 THM Rooms Completed: 50+
-🏴‍☠️ CTF Challenges Solved: 100+
-🔍 Vulnerabilities Discovered: Multiple
-📖 Security Research Papers: In Progress
 ```
 
 </div>
