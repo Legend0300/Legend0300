@@ -3,18 +3,19 @@
 # 🚀 Muhammad Ahmed
 ### `Digital Craftsman (Developer/Creator/Innovator)`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Machine+Learning+Engineer;AI+Enthusiast;Building+Tomorrow's+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Machine+Learning+Engineer;AI+Enthusiast;Cybersecurity+Researcher;Red+Team+Specialist;Building+Tomorrow's+Technology" alt="Typing SVG" />
 
 ### 🌟 About Me
 
 ```yaml
 name: Muhammad Ahmed
 located_in: Pakistan 🇵🇰
-current_job: Full Stack Developer
-education: ["Computer Science", "Machine Learning"]
-fields_of_interests: ["Web Development", "Machine Learning", "AI", "Cybersecurity"]
-technical_background: ["Full Stack Development", "ML Engineering", "Bot Development"]
-currently_learning: ["Large Language Models", "Advanced AI Techniques"]
+current_job: Full Stack Developer & Security Researcher
+education: ["Computer Science", "Machine Learning", "Cybersecurity"]
+fields_of_interests: ["Web Development", "Machine Learning", "AI", "Cybersecurity", "Red Teaming"]
+technical_background: ["Full Stack Development", "ML Engineering", "Bot Development", "Penetration Testing"]
+currently_learning: ["Large Language Models", "Advanced Red Teaming", "Threat Intelligence", "OSINT"]
+security_focus: ["Ethical Hacking", "Vulnerability Assessment", "Network Security", "Digital Forensics"]
 ```
 
 </div>
@@ -26,9 +27,10 @@ currently_learning: ["Large Language Models", "Advanced AI Techniques"]
 <div align="center">
 
 🔭 **Working on:** [Text-Summarizer](https://github.com/Legend0300/Text-Summarizer) - AI-powered text summarization tool  
-🌱 **Learning:** Large Language Models & Advanced AI Techniques  
+🌱 **Learning:** Large Language Models & Advanced Red Teaming Techniques  
+🔐 **Security Research:** Penetration Testing, OSINT, and Threat Hunting  
 👨‍💻 **Portfolio:** [View My Work](https://portfolio-git-ml-legend0300s-projects.vercel.app/)  
-💡 **Ask me about:** React, Node.js, Machine Learning, AI Development  
+💡 **Ask me about:** React, Node.js, Machine Learning, AI Development, Cybersecurity  
 
 </div>
 
@@ -67,14 +69,53 @@ currently_learning: ["Large Language Models", "Advanced AI Techniques"]
 
 <div align="center">
 
+### 💻 **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🌐 **Web Technologies**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 🤖 **AI/ML & Data**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔐 **Cybersecurity Tools**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+</div>
+
+---
+
+## 🔒 **Cybersecurity Journey**
+
+<div align="center">
+
+### 🎯 **Current Security Focus**
+```
+🔴 Red Teaming & Penetration Testing
+🕵️ OSINT & Threat Intelligence  
+🛡️ Network Security & Defense
+🔍 Digital Forensics & Incident Response
+🎭 Social Engineering Awareness
+📊 Vulnerability Assessment & Management
+```
+
+### 🏴‍☠️ **Red Team Skills**
+- **Reconnaissance:** OSINT, Footprinting, Social Engineering
+- **Weaponization:** Custom Payload Development, Evasion Techniques
+- **Delivery:** Phishing Campaigns, Physical Security Bypasses
+- **Exploitation:** Web App Pentesting, Network Penetration
+- **Installation:** Persistence, Backdoors, C2 Infrastructure
+- **Command & Control:** Remote Access, Lateral Movement
+- **Actions on Objectives:** Data Exfiltration, Impact Assessment
 
 </div>
 
@@ -87,23 +128,37 @@ currently_learning: ["Large Language Models", "Advanced AI Techniques"]
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Legend0300&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00f7ff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legend0300&layout=compact&langs_count=8&theme=tokyonight&border_color=00f7ff"/>
 
+<br/>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Legend0300&theme=tokyonight&border=00f7ff)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🎖️ **Achievements**
+## 🎖️ **Achievements & Certifications**
 
 <div align="center">
 
-### 🔐 Cybersecurity Journey
-<p><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4200002" style='border:none; width: 400px; height: 120px;'></iframe></p>
+### 🔐 **TryHackMe Progress**
+<img src="https://tryhackme-badges.s3.amazonaws.com/Legend0300.png" alt="TryHackMe Badge" width="400"/>
 
-*Building cybersecurity expertise through hands-on challenges and real-world scenarios*
+**Current Learning Path:**
+- ✅ Complete Beginner Path
+- 🔄 Offensive Pentesting Path  
+- 🔄 Red Teaming Path
+- 📚 Cyber Defense Path (Next)
 
-### 🏆 GitHub Trophies
+### 🏆 **GitHub Achievements**
 [![trophy](https://github-profile-trophy.vercel.app/?username=Legend0300&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🎯 **Security Milestones**
+```
+🎪 THM Rooms Completed: 50+
+🏴‍☠️ CTF Challenges Solved: 100+
+🔍 Vulnerabilities Discovered: Multiple
+📖 Security Research Papers: In Progress
+```
 
 </div>
 
@@ -118,11 +173,15 @@ currently_learning: ["Large Language Models", "Advanced AI Techniques"]
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Legend0300#4869)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.mansur.bhatti@gmail.com)
 
----
+<br/>
 
 ### 👁️ **Profile Views**
 ![Visitor Count](https://profile-counter.glitch.me/Legend0300/count.svg)
 
-⭐️ From [Legend0300](https://github.com/Legend0300)
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+
+⭐️ From [Legend0300](https://github.com/Legend0300) | *"In code we trust, in security we verify"*
 
 </div>
