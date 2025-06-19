@@ -30,7 +30,7 @@
 
 🔭 **Working on:** [Text-Summarizer](https://github.com/Legend0300/Text-Summarizer) - AI-powered text summarization tool  
 🌱 **Learning:** Large Language Models & Advanced Red Teaming Techniques  
-🔐 **Security Research:** Penetration Testing 
+🔐 **Security Research:** Penetration Testing, OSINT, and Threat Hunting  
 👨‍💻 **Portfolio:** [View My Work](https://portfolio-git-ml-legend0300s-projects.vercel.app/)  
 💡 **Ask me about:** React, Node.js, Machine Learning, AI Development, Cybersecurity  
 
@@ -140,7 +140,6 @@
 
 ### 🏆 **GitHub Achievements**
 [![trophy](https://github-profile-trophy.vercel.app/?username=Legend0300&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-```
 
 </div>
 
@@ -166,6 +165,7 @@
 
 ⭐️ From [Legend0300](https://github.com/Legend0300) | *"In code we trust, in security we verify"*
 
+</div>
 </div>
 ⭐️ From [Legend0300](https://github.com/Legend0300) | *"In code we trust, in security we verify"*
 
