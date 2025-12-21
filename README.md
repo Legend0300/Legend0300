@@ -3,7 +3,7 @@ DevOps • Cloud • CI/CD • Containers • IaC
 
 <p align="center">
 	<img
-		src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=820&lines=Azure+%7C+Kubernetes+%7C+Docker+%7C+Terraform+%7C+GitHub+Actions+%7C+Prometheus+%2B+Grafana"
+		src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=820&lines=Azure+%7C+Kubernetes+%7C+Terraform+%7C+GitHub+Actions+%7C+Prometheus+%2B+Grafana"
 		alt="DevOps tech focus"
 	/>
 </p>
