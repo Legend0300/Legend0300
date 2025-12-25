@@ -53,6 +53,8 @@ I build practical delivery setups: containerized services, repeatable CI/CD pipe
 **Collaboration**: Git, GitHub
 
 ## Featured projects
+- **Go Microservice Pipeline** — GitHub Actions pipeline for a Go Lang Microservice ( build, deployment , CI CD )
+	- Repo: https://github.com/Ahmed-Mansur/Go-Microservice-Pipeline
 - **Flask CI/CD** — GitHub Actions pipeline for a Flask API (linting, tests, container build, deploy gates)
 	- Repo: https://github.com/Legend0300/flask-CI-CD
 - **Kubernetes Project** — containerized service deployed on Kubernetes with ingress manifests
