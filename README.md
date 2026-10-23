@@ -1,72 +1,65 @@
 # Muhammad Ahmad
-DevOps • Cloud • CI/CD • Containers • IaC
 
-<p align="center">
-	<img
-		src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=820&lines=Azure+%7C+Kubernetes+%7C+Terraform+%7C+GitHub+Actions+%7C+Prometheus+%2B+Grafana"
-		alt="DevOps tech focus"
-	/>
+**Cloud | Cloud Security | Forward Deployed Engineer** · Lahore, Pakistan · open to remote roles
+
+I build cloud systems, ship them with client teams and secure them.
+
+- **Now:** Forward Deployed Engineer at iNNiData. I scope, build and ship supply-chain, logistics and navigation software with client teams, from system architecture and live demos to production.
+- **Before:** DevOps and Cloud Engineer at TheDevswift. I migrated production workloads to AWS (ECS Fargate, RDS, Lambda) with Terraform, ran tenant provisioning for a multi-tenant SaaS on Azure AKS, and implemented SOC 2 Type II controls in CI/CD.
+- **Education:** BS Computer Science, COMSATS University Islamabad (2022 to 2026).
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-<p align="center">
-	<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-	<img src="https://img.shields.io/badge/Azure_AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AKS" />
-	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-	<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-	<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-	<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-	<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-	<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-</p>
+## What I work on
 
-<p align="center">
-	<img
-		src="https://skillicons.dev/icons?i=azure,kubernetes,docker,githubactions,jenkins,terraform,ansible,python,ts,js,prometheus,grafana"
-		alt="DevOps skill icons"
-	/>
-</p>
+| Area | Tools and practice |
+|---|---|
+| **Cloud** | AWS (ECS Fargate, Lambda, RDS, IAM), Azure (AKS, Cosmos DB), Cloudflare Workers, Terraform, Kubernetes, Docker, GitHub Actions |
+| **Cloud security and DevSecOps** | SOC 2 Type II controls, dependency, image and IaC scanning, signed artifacts, least-privilege IAM, OIDC, secrets management |
+| **Network and endpoint security** | Host firewalls (Windows Filtering Platform, iptables, eBPF), DNS filtering, packet capture, threat-intel blocking |
+| **Forward deployed work** | Client scoping, solution architecture, live demos, change requests, shipping to production |
+| **Monitoring** | Application Insights (KQL), CloudWatch, Prometheus, Grafana |
 
-I build practical delivery setups: containerized services, repeatable CI/CD pipelines, and infrastructure defined as code. I also have experience with full‑stack development and Python.
+## Featured: GateKeeper (final year project)
 
-## What I do
-- CI/CD pipelines (GitHub Actions, Jenkins): build/test, container publish, release tagging
-- Kubernetes delivery: deploy manifests, ingress, health probes, basic scaling patterns
-- Infrastructure as Code: Terraform modules and Ansible automation for repeatable environments
-- Monitoring: Prometheus + Grafana for metrics dashboards and basic alerting
+An endpoint security suite for **Windows and Linux**: a DNS sinkhole, an IP/port firewall that blocks threat-intel feeds, a per-application firewall and a packet-capture monitor, run from one dashboard or through a LangGraph AI assistant with prompt-injection guards. It started on Windows (Windows Filtering Platform), was ported to Linux (iptables, cgroup v2, eBPF), then audited and hardened.
 
-## Skills (quick list)
-**Cloud & Platform**: Azure, Azure Container Apps, AKS, Kubernetes, Docker
+The main repository is private. The Windows-era modules are public:
 
-**CI/CD & Automation**: GitHub Actions, Jenkins
+| Module | Repository |
+|---|---|
+| DNS sinkhole (C++, REST API, Electron) | [DNS-Proxy-Sinkhole](https://github.com/Legend0300/DNS-Proxy-Sinkhole) |
+| IP and port firewall on WFP (C++, Electron) | [IP-Manager-Full](https://github.com/Legend0300/IP-Manager-Full) · CLI version: [IP-Manager](https://github.com/Legend0300/IP-Manager) |
+| Network traffic monitor (Scapy, FastAPI, Electron) | [ip-monitor](https://github.com/Legend0300/ip-monitor) |
 
-**Infrastructure as Code**: Terraform, Ansible
+## More projects
 
-**Languages & Scripting**: JavaScript, TypeScript, Python, C++
+| Project | What it is |
+|---|---|
+| [Go Microservice Pipeline](https://github.com/Ahmed-Mansur/Go-Microservice-Pipeline) | Go auth and chat services with JWT, deployed to Azure AKS with Terraform, GitHub Actions CI/CD and Azure Monitor |
+| [Passive-Recon-Tool](https://github.com/Legend0300/Passive-Recon-Tool) | Passive reconnaissance framework: modular engine, FastAPI web UI, CLI and structured reports |
+| [AI-IDS](https://github.com/Legend0300/AI-IDS) | Network intrusion detection dashboard with a Random Forest model trained on NSL-KDD |
+| [VAE-Traffic_Filter](https://github.com/Legend0300/VAE-Traffic_Filter) | Network traffic anomaly detection with a variational autoencoder (PyTorch) |
+| [flask-CI-CD](https://github.com/Legend0300/flask-CI-CD) | GitHub Actions pipeline that runs pytest and builds the Docker image on every push |
+| [kubernetes-proj](https://github.com/Legend0300/kubernetes-proj) | Flask service on Kubernetes (Deployment and NodePort Service) with CI |
+| [Docker-proj](https://github.com/Legend0300/Docker-proj) | Flask and MySQL with Docker Compose |
 
-**Observability & Quality**: Prometheus, Grafana, Container logging, Smoke tests, Health probes
+## Certifications
 
-**Collaboration**: Git, GitHub
-
-## Featured projects
-- **Go Microservice Pipeline** — GitHub Actions pipeline for a Go Lang Microservice ( build, deployment , CI CD )
-	- Repo: https://github.com/Ahmed-Mansur/Go-Microservice-Pipeline
-- **Flask CI/CD** — GitHub Actions pipeline for a Flask API (linting, tests, container build, deploy gates)
-	- Repo: https://github.com/Legend0300/flask-CI-CD
-- **Kubernetes Project** — containerized service deployed on Kubernetes with ingress manifests
-	- Repo: https://github.com/Legend0300/kubernetes-proj
-- **Docker Flask Proj** — Flask + Postgres in a multi‑container setup (Docker Compose)
-	- Repo: https://github.com/Legend0300/flask-CI-CD
-
-## Also comfortable with
-- Building web apps (React/Next.js) for internal tools
-- Python services and scripts
+- **TryHackMe DevSecOps** learning path, Jan 2026 · [verify](https://tryhackme.com/certificate/THM-GJ5UFAZQLB)
+- **TryHackMe Web Fundamentals** learning path (web application penetration testing), Oct 2025 · [verify](https://tryhackme.com/certificate/THM-MXIUGOWXNX)
 
 ## Contact
-- Email: ahmed.mansur.bhatti@gmail.com
-- LinkedIn: https://www.linkedin.com/in/muhammad-ahmad-b55539250/
-- GitHub: https://github.com/Legend0300
+
+[LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-b55539250/) · ahmed.mansur.bhatti@gmail.com
