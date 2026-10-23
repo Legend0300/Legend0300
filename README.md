@@ -31,29 +31,37 @@ I build cloud systems, ship them with client teams and secure them.
 | **Forward deployed work** | Client scoping, solution architecture, live demos, change requests, shipping to production |
 | **Monitoring** | Application Insights (KQL), CloudWatch, Prometheus, Grafana |
 
-## Featured: GateKeeper (final year project)
+## Featured: DevOps Buddy
 
-An endpoint security suite for **Windows and Linux**: a DNS sinkhole, an IP/port firewall that blocks threat-intel feeds, a per-application firewall and a packet-capture monitor, run from one dashboard or through a LangGraph AI assistant with prompt-injection guards. It started on Windows (Windows Filtering Platform), was ported to Linux (iptables, cgroup v2, eBPF), then audited and hardened.
+**Watches everything, touches nothing.** A DevOps co-pilot for GitHub Actions and Cloudflare. It follows pipelines, Workers, Pages, DNS and D1, explains why a run failed with the evidence behind it, and answers plain-English questions through an AI that can only call read-only APIs.
 
-The main repository is private. The Windows-era modules are public:
+- **Read-only by default:** every upstream call goes through one guard that allows only reads.
+- **Human-approved fixes:** the single write path needs a one-time approval, writes only to its own `buddy/*` branches, never merges or deletes, and is audit-logged.
+- **Secrets stay server-side,** encrypted with AES-256-GCM.
+- **Stack:** Cloudflare Workers (Hono), D1, React, Better Auth, OpenAI.
 
-| Module | Repository |
-|---|---|
-| DNS sinkhole (C++, REST API, Electron) | [DNS-Proxy-Sinkhole](https://github.com/Legend0300/DNS-Proxy-Sinkhole) |
-| IP and port firewall on WFP (C++, Electron) | [IP-Manager-Full](https://github.com/Legend0300/IP-Manager-Full) · CLI version: [IP-Manager](https://github.com/Legend0300/IP-Manager) |
-| Network traffic monitor (Scapy, FastAPI, Electron) | [ip-monitor](https://github.com/Legend0300/ip-monitor) |
+<img src="assets/devops-buddy-root-cause.webp" alt="DevOps Buddy explaining the root cause of a failed CI run, with evidence from the commit and test logs" width="100%" />
+
+<sub>Root-cause analysis of a failed CI run, in a demo workspace with sample data. The code is private; a walkthrough is available on request.</sub>
+
+## Solar Atlas
+
+A solar monitoring dashboard built for one home and engineered as a reference multi-environment AWS platform. The web app shows live energy flow from the inverter; a Python backend on ECS and a collector Lambda store the readings in DynamoDB.
+
+- **Infrastructure as code:** 30+ hand-built resources brought into Terraform, split into 7 modules with shared, dev and prod stacks.
+- **Delivery:** GitHub Actions with OIDC (short-lived credentials). Every pull request runs a plan with tflint, Trivy, Checkov and gitleaks; merges apply to dev, prod is promoted by hand, and a nightly job checks for drift.
+- **Edge and secrets:** CloudFront in front of a private S3 bucket (OAC); secrets in SSM Parameter Store.
+
+<img src="assets/solar-atlas-dashboard.webp" alt="Solar Atlas dashboard showing energy flow between solar, battery, grid and home" width="80%" />
 
 ## More projects
 
 | Project | What it is |
 |---|---|
+| GateKeeper (final year project) | Endpoint security suite for Windows and Linux: DNS sinkhole, IP/port firewall with threat-intel feeds, per-app firewall, packet-capture monitor and a LangGraph assistant. Public modules: [DNS-Proxy-Sinkhole](https://github.com/Legend0300/DNS-Proxy-Sinkhole), [IP-Manager-Full](https://github.com/Legend0300/IP-Manager-Full), [ip-monitor](https://github.com/Legend0300/ip-monitor) |
 | [Go Microservice Pipeline](https://github.com/Ahmed-Mansur/Go-Microservice-Pipeline) | Go auth and chat services with JWT, deployed to Azure AKS with Terraform, GitHub Actions CI/CD and Azure Monitor |
 | [Passive-Recon-Tool](https://github.com/Legend0300/Passive-Recon-Tool) | Passive reconnaissance framework: modular engine, FastAPI web UI, CLI and structured reports |
 | [AI-IDS](https://github.com/Legend0300/AI-IDS) | Network intrusion detection dashboard with a Random Forest model trained on NSL-KDD |
-| [VAE-Traffic_Filter](https://github.com/Legend0300/VAE-Traffic_Filter) | Network traffic anomaly detection with a variational autoencoder (PyTorch) |
-| [flask-CI-CD](https://github.com/Legend0300/flask-CI-CD) | GitHub Actions pipeline that runs pytest and builds the Docker image on every push |
-| [kubernetes-proj](https://github.com/Legend0300/kubernetes-proj) | Flask service on Kubernetes (Deployment and NodePort Service) with CI |
-| [Docker-proj](https://github.com/Legend0300/Docker-proj) | Flask and MySQL with Docker Compose |
 
 ## Certifications
 
